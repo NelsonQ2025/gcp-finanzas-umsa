@@ -12,8 +12,8 @@ Este trabajo es de la materia metodos numericos
 
 ## 🔗 Entregables del Desafío
 
-* **Página Web Funcional (Desplegada):** 
-* **Repositorio de Código Fuente:** 
+* **Página Web Funcional (Desplegada):** https://nelsonq2025.github.io/gcp-finanzas-umsa/
+* **Repositorio de Código Fuente:** https://github.com/NelsonQ2025/gcp-finanzas-umsa
 
 ---
 
